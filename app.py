@@ -410,6 +410,6 @@ if predict_button:
 # Footer
 st.markdown("""
     <div class='footer'>
-        Developed by Aryan • Powered by Machine Learning
+        Developed by Aryan
     </div>
 """, unsafe_allow_html=True)
